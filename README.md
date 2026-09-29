@@ -48,3 +48,9 @@ Pemeriksaan lokal: 15 kartu ter-render (10 poster, 5 video), filter video dan mo
 
 Pemeriksaan rotasi: hari pertama, batas tengah malam WIB, hari terakhir, pengulangan, katalog kosong/satu materi, dan perubahan urutan baris lulus. Navigasi beranda → katalog menampilkan 15 kartu.
 `n## Unduh materi`nTautan Bisa unduh di sini tersedia di beranda, setiap kartu katalog, dan modal. Poster Ditambal Terus diunduh dari aset lokal. Materi lain menggunakan tautan unduh Google Drive; login, konfirmasi file besar, dan izin unduh pemilik tetap berlaku. Tidak ada izin Drive yang diubah. Footer ditambahkan sesuai teks pengguna.
+
+
+## Pembaruan 16 materi
+MB-016 ditambahkan dari katalog terbaru. Modal tidak lagi menampilkan tautan Buka di Google Drive atau petunjuk preview. MB-003 memakai gambar lokal pada kartu, modal, dan unduhan; folder assets wajib ikut diunggah.
+
+Ekstrak seluruh isi paket menjadi satu folder: index.html, katalog.html, app.js, content.js, stylesheet, settings.js, rotation.js, dan assets harus sejajar. Jangan memisahkan HTML ke luar folder pendukung. Untuk update website, unggah seluruh isi folder tersebut, bukan hanya kedua HTML.

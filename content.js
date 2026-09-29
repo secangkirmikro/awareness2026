@@ -197,6 +197,20 @@ window.CAMPAIGN = {
       "orientation": "Landscape",
       "source": "https://drive.google.com/file/d/1ObweXC0yBveyGzPx9jo5IKEx8QFlnsX5/view?usp=drive_link",
       "featured": true
+    },
+    {
+      "id": "MB-016",
+      "order": 16.0,
+      "type": "image",
+      "title": "Ketemu Salah Satu ini, Stop Dulu!",
+      "caption": "*Ketemu satu tanda ini? Stop dulu.* 🚩\n\nHalo Sobat Mikro,\npernah ketemu yang begini?\n\n1. Debitur nggak tahu usahanya sendiri\n2. Datang bareng \"pendamping\"\n3. Minta cair cepat\n4. Alamat usaha beda dengan berkas\n5. KTP pinjam punya saudara\n6. Foto usaha milik orang lain\n7. Ada \"uang terima kasih\"\n8. \"Nanti angsurannya saya yang urus\"\n9. \"Aman kok, sudah biasa\"\n\nNggak perlu nunggu banyak.\n*Satu tanda = berhenti dan cek ulang.*\n\nNomor berapa yang paling sering kamu temui? 👇\n\nLihat. Tolak. Laporkan.\n\n",
+      "tags": [
+        "#MikroBerintegritas",
+        "#RedFlagMikro"
+      ],
+      "orientation": "Portrait",
+      "source": "https://drive.google.com/file/d/1KNF6v3y4pBXnZTKNRMCN6UR6iPvZYEXK/view?usp=drive_link",
+      "featured": true
     }
   ]
 };
